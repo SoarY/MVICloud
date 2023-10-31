@@ -1,0 +1,9 @@
+<resources>
+    <string name="music_name">Music组件</string>
+
+    <!--TAB-->
+    <string name="android">玩安卓</string>
+    <string name="navi">导航数据</string>
+
+    <string name="string_dot">&#160;·&#160;%s</string>
+</resources>
