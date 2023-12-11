@@ -12,6 +12,12 @@
 组件化+MVI+ViewBinding框架为基础,整合Coroutines、Flow、Retrofit2、LiveData、Glide、ARouter等,
 为项目基础框架而搭建。
 
+# Screenshots:
+<img width="173" height=“274” src="https://github.com/SoarY/Cloud/blob/master/file/img_01.jpg?raw=true"></img>
+<img width="173" height=“274” src="https://github.com/SoarY/Cloud/blob/master/file/img_02.jpg?raw=true"></img>
+<img width="173" height=“274” src="https://github.com/SoarY/Cloud/blob/master/file/img_03.jpg?raw=true"></img>
+<img width="173" height=“274” src="https://github.com/SoarY/Cloud/blob/master/file/img_04.jpg?raw=true"></img>
+<img width="173" height=“274” src="https://github.com/SoarY/Cloud/blob/master/file/img_05.jpg?raw=true"></img>
 
 ## License
 
